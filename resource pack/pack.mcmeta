@@ -1,5 +1,5 @@
 {
-  "pack":pack {
+  "pack":resource pack {
     "pack_format": 7,
     "description": "Tutorial Resourcepack"
   }
