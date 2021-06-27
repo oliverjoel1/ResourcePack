@@ -5,7 +5,7 @@ This is the Order of The Flame resource pack which includes the weapons and text
 ## Items Completed
 None
 
-##Items and Textures to Do
+## Items and Textures to Do
 
 - Swords
 - Bows
